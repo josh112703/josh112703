@@ -38,13 +38,11 @@ Building web experiences that blend clean development with AI-assisted creativit
 
 ## GitHub Stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josh112703&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josh112703&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh112703&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josh112703&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+</p>
 
 ---
 
-## 📬 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
