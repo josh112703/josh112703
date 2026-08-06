@@ -39,7 +39,7 @@ Building web experiences that blend clean development with AI-assisted creativit
 ## GitHub Stats:
 
 <p align="center">
-  [<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josh112703&layout=compact&theme=dark" alt="Top Languages" width="48%" />](https://github-readme-stats.vercel.app/api/top-langs/?username=josh112703&layout=compact&theme=dark&hide=html,css)
+  [[<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josh112703&layout=compact&theme=dark" alt="Top Languages" width="48%" />](https://github-readme-stats.vercel.app/api/top-langs/?username=josh112703&layout=compact&theme=dark&hide=html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=josh112703&layout=compact&theme=dark&langs_count=8)
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=josh112703&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
 </p>
 ---
