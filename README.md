@@ -38,10 +38,9 @@ Building web experiences that blend clean development with AI-assisted creativit
 
 ## GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh112703&layout=compact&theme=dark&hide=html,css" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=josh112703&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-</p>
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josh112703&layout=compact&theme=dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=josh112703&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
